@@ -1,3 +1,24 @@
-body {
+/* element */
+h1 {
   background-color: yellowgreen;
+  font-family: 'Montserrat', sans-serif;
 }
+
+.li {
+  list-style: none;
+}
+
+/* class */
+.instructors {
+  background-color: orange;
+}
+
+#greeting {
+  background-color: violet;
+}
+
+
+
+/* header {
+  background-color: red;
+} */
